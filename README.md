@@ -1,5 +1,3 @@
-# ai_friend
-
 # Caring AI Mobile App - System Architecture
 
 ## Overall Architecture
